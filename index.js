@@ -10,4 +10,15 @@ $(document).ready(function () {
       }
     });
   });
+document.ready(function(){
+document.getElementById("color-range").addEventListener("on",function(){
+    "input change"
+document.querySelector("body").value;
+if(value< "#242424"){
+  document.querySelector("h1").style.css.color="white";
+}else{
+  document.querySelector("h1").style.css.color="black";
+}   
+  })
+})
   
